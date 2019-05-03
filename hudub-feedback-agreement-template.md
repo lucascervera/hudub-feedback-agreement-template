@@ -1,6 +1,6 @@
 # Feedback agreement
 
-This agreement is between {{feedbackRequester}} and {{feedbackProvider}}. We agree the following:
+This agreement is between Lucas Cervera and {{feedbackProvider}}. We agree the following:
 
-1. {{feedbackRequester}} is working on a new project and might invite {{feedbackProvider}} to provide feedback with the objective of validating the idea.
-1. If {{feedbackProvider}} provides feedback in any form, {{feedbackRequester}} agrees to buy {{feedbackProvider}} a beer next time they meet.
+1. Lucas Cervera is working on a new project and might invite {{feedbackProvider}} to provide feedback with the objective of validating the idea.
+1. If {{feedbackProvider}} provides feedback in any form, Lucas Cervera agrees to buy {{feedbackProvider}} a beer next time they meet.
